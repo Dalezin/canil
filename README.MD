@@ -1,1 +1,0 @@
-http://localhost:3000/?date=03/08/2018&smallDogs=3&largeDogs=5 
