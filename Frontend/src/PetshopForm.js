@@ -16,7 +16,7 @@ const PetshopForm = ({ onSubmit }) => {
       <div className='row'>
         <label >
           Date:{'  '}
-          <input type="text" value={date} onChange={(e) => setDate(e.target.value)} />
+          <input type="text" value={date} onChange={(e) => setDate(e.target.value) } placeholder="YYYY-MM-DD"/>
           <br />
         </label>
         <label>
