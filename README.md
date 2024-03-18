@@ -1,4 +1,4 @@
-# Petshop Price Calculator
+# Petshop Com O Melhor Preco
 
 A aplicação calcula o melhor petshop para você com base no número de cachorros grandes e pequenos que você tem, considerando o valor e a distância dos diferentes petshops. Essa aplicação utiliza React para o frontend e Express para o backend.
 
