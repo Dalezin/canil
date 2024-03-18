@@ -4,13 +4,12 @@ This application calculates the best petshop for you based on the number of smal
 
 [![NodeJs](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png)](https://nodejs.org/en/) [![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png)](https://reactjs.org/) 
 
-http://localhost:3000/?date=03/08/2018&smallDogs=3&largeDogs=5 
 
 ## Tech
 
 - [node.js](https://nodejs.org/en/) - evented I/O for the backend
 
-- [![React](https://legacy.reactjs.org/) - React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.
+- [React](https://legacy.reactjs.org/) - React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.
 ## Setup
 
 - To run the application before we need to install dependencies at Backend an Frontend folders, go uder /Backend and run the command:

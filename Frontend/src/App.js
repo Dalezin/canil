@@ -7,6 +7,7 @@ const App = () => {
   const [result, setResult] = useState(null);
 
   const handleSubmit = async (date, smallDogs, largeDogs) => {
+    if ( date !== "" &&  smallDogs !== "" &&  largeDogs !== ""  ){
     try{
     const response = await fetch(`http://localhost:3001/?date=${date}&smallDogs=${smallDogs}&largeDogs=${largeDogs}`);
     const data = await response.json();
@@ -14,6 +15,7 @@ const App = () => {
     }catch(error){
       console.log(error)
     }
+  }
   };
 
   return (
