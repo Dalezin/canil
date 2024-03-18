@@ -1,6 +1,6 @@
 # Petshop Com O Melhor Preco
 
-A aplicação calcula o melhor petshop para você com base no número de cachorros grandes e pequenos que você tem, considerando o valor e a distância dos diferentes petshops. Essa aplicação utiliza React para o frontend e Express para o backend.
+A aplicação calcula o melhor petshop para você com base no número de cachorros grandes e pequenos que você tem, considerando o valor e a distância dos diferentes petshops. Essa aplicação utiliza React para o frontend e Node para o backend.
 
 [![NodeJs](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png)](https://nodejs.org/en/) [![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png)](https://reactjs.org/) 
 
