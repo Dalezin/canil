@@ -5,7 +5,7 @@ A aplicação calcula o melhor petshop para você com base no número de cachorr
 [![NodeJs](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png)](https://nodejs.org/en/) [![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png)](https://reactjs.org/) 
 
 
-## Tech
+## Tecnologias
 
 - [node.js](https://nodejs.org/en/) - evented I/O for the backend
 
@@ -39,7 +39,7 @@ http://localhost:3000
 - Verifique a implementação da navegação do seu endereço no seu navegador favorito.
 
 
-## Usage
+## Uso
 
 faca um GET request na URL (/) com os seguintes parametros:
 
@@ -47,9 +47,9 @@ faca um GET request na URL (/) com os seguintes parametros:
     2. Click no botao de "submit".
     3. A aplicação vai mostrar o melhor petshop e o valor total.
 
-## Example request:
+## Exemplo solicitacao:
 
-# Example 1:
+# Exemplo 1:
 
 Entrada:
 
@@ -63,7 +63,7 @@ Saida:
     Best Petshop: Vai Rex
     Total Price: 80
 
-# Example 2:
+# Exemplo 2:
 
 Entrada:
 
@@ -76,7 +76,7 @@ Saida:
     Best Petshop: ChowChawgas
     Total Price: 135
 
-# Example 3:
+# Exemplo 3:
 
 Entrada:
 
@@ -88,7 +88,7 @@ Saida:
     Best Petshop: Meu Canino Feliz
     Total Price: 240
 
-# To send request directly to the backend server 
+# Para eviar uma solicitacao direto para o servidor backend 
 ```
   GET http://localhost:3001/?date=2024-03-17&smallDogs=2&largeDogs=1
 ```
